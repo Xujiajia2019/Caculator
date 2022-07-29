@@ -1,0 +1,11 @@
+.container {
+  max-width: 450px;
+  height: 800px;
+  margin: auto;
+}
+.component-app {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 100%;
+}
